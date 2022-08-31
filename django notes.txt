@@ -1,0 +1,45 @@
+cores link for django's addons
+
+https://djangopackages.org/categories/apps/?page=1
+https://www.django-rest-framework.org/community/third-party-packages/
+https://jazzband.co/projects?sorter=stargazers&order=desc
+
+
+-------------django admin ui-------------------------------
+
+django-xadmin
+django-admin-tools
+django-jet			V
+jet-bridge-django		V	
+django-grapelli			V
+django-suit
+https://github.com/newpanjing/simpleui
+----------------------------------------------------------------
+
+
+https://django-versatileimagefield.readthedocs.io/en/latest/overview.html
+
+
+https://github.com/tschellenbach/Stream-Framework
+or
+https://django-activity-stream.readthedocs.io/en/latest/
+
+
+https://django-filter.readthedocs.io/en/stable/guide/rest_framework.html
+
+https://djoser.readthedocs.io/en/latest/	(not needed)
+djoser library provides a set of Django Rest Framework views to handle basic actions such as registration, login, logout, password reset and account activation. It works with custom user model.
+
+
+
+------------------------what are these ???------------------------------
+
+https://django-guardian.readthedocs.io/en/stable/installation.html
+https://github.com/jazzband/django-taggit
+https://django-rest-swagger.readthedocs.io/en/latest/	(deprecated) use https://github.com/axnsan12/drf-yasg instead
+https://django-reversion.readthedocs.io/
+https://github.com/jschneier/django-storages
+https://github.com/viewflow/viewflow
+
+---------------------------------------------------------------------
+
