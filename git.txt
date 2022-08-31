@@ -109,3 +109,8 @@ git push origin yournewbranchname
 
 confirm the new branch from GitHub
 
+-------------------------------------------------
+
+CLONE FROM GITHUB
+
+git clone URL
